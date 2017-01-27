@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 TODO: Replace "Lab Title" with the actual title of the lab, and
 "http://hyperlink.to.lab" with a hyperlink to the lab in the LMS, and then
 remove the italic enclosures surrounding the hyperlink.
