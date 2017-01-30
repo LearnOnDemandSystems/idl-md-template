@@ -6,7 +6,7 @@ remove the italic enclosures surrounding the hyperlink.
 This repository defines the Integrated Digital Lab (IDL) in markdown format for
 the *[Lab Title](http://hyperlink.to.lab)* lab.
 
-The IDL itself is defined in the [idl.md](/idl.md) file. You must view that
+The IDL itself is defined in the [content.md](/content.md) file. You must view that
 file in raw mode to see the comments that guide you through the process of
 creating a new IDL document using Markdown.
 

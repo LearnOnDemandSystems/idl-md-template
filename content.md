@@ -2,8 +2,8 @@
 Version 0.1
 -->
 <!--
-VERSION TODO #1: Never delete the version comment from your idl.md file. This
-specifies the schema version of the document so that it may be parsed
+VERSION TODO #1: Never delete the version comment from your content.md file.
+This specifies the schema version of the document so that it may be parsed
 correctly when it is imported into Lab on Demand. Once you understand the
 importance of the version comment, you may delete this comment (but not the
 version comment before it).
@@ -22,10 +22,10 @@ table of contents as well, observing the following rules:
 3. For hyperlinking to work, TOC entries should be entered in the following
    format:
    [Exercise or task name](#exercise-or-task-name-with-dashes-for-spaces)
-4. The TOC is currently not used by the idl.md parser. It is simply a nice ways
-   to get fast access to various tasks and exercises. Future versions of the
-   parser may leverage the TOC to define exercise/task positioning as an idl.md
-   file is imported.
+4. The TOC is currently not used by the content.md parser. It is simply a nice
+   ways to get fast access to various tasks and exercises. Future versions of
+   the parser may leverage the TOC to define exercise/task positioning as a
+   content.md file is imported.
 
 If you do not want a table of contents for your markdown document, remove this
 comment as well as the table of contents below this comment.
