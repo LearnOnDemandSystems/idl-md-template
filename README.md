@@ -10,8 +10,11 @@ The IDL itself is defined in the [content.md](/content.md) file. You must view t
 file in raw mode to see the comments that guide you through the process of
 creating a new IDL document using Markdown.
 
+As you add content to your lab, you can use the templates that are provided
+[here](https://github.com/LearnOnDemandSystems/idl-md/blob/master/templates).
+
 If the lab repository contains any associated videos and screenshots, they can
 be found in the [videos](/videos) and [screens](/screens) folders, respectively.
 
 To learn how to create your own IDL in Markdown lab, see
-[here](https://github.com/LearnOnDemandSystems/idl-md). 
+[here](https://github.com/LearnOnDemandSystems/idl-md).
