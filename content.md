@@ -45,23 +45,8 @@ EXERCISE TODO #1: Replace "First Exercise" in the heading above with the name
 of your new exercise.
 -->
 
-## INTRODUCTION MESSAGE
-
 <!--
-EXERCISE TODO #2: Replace this comment with the introduction message for this
-exercise. This message can span multiple paragraphs if necessary.
--->
-
-## COMPLETION MESSAGE
-
-<!--
-EXERCISE TODO #3: Replace this comment with a completion message for this
-exercise, or delete the COMPLETION MESSAGE heading and this comment if you do
-not need a completion message.
--->
-
-<!--
-EXERCISE TODO #4: Set the IntroductionUri and CompletionUri values in the quoted
+EXERCISE TODO #2: Set the IntroductionUri and CompletionUri values in the quoted
 properties below. Both IntroductionUri and CompletionUri may be relative (within
 GitHub) or absolute uris. Remove any values that you don't need, removing the
 entire quote if you don't need any of the values. Then delete this comment.
@@ -70,6 +55,21 @@ entire quote if you don't need any of the values. Then delete this comment.
 >LODSProperties
 >* IntroductionUri = 
 >* CompletionUri = 
+
+## INTRODUCTION MESSAGE
+
+<!--
+EXERCISE TODO #3: Replace this comment with the introduction message for this
+exercise. This message can span multiple paragraphs if necessary.
+-->
+
+## COMPLETION MESSAGE
+
+<!--
+EXERCISE TODO #4: Replace this comment with a completion message for this
+exercise, or delete the COMPLETION MESSAGE heading and this comment if you do
+not need a completion message.
+-->
 
 <hr>
 
